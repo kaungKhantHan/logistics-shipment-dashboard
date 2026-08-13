@@ -7,7 +7,7 @@ An end-to-end data project analyzing shipment and return logistics — covering 
 ## 📊 Preview
 <!-- add a screenshot or GIF of the dashboard here -->
 ![Shipment Performance Dashboard Preview](shipmentPerformance.png)
-![Returns Analysis Preview](.png)
+![Returns Analysis Preview](returnItemAnalysis.png)
 ![Star Schema Relationship Set Up Preview](starSchemeLogistic.png)
 
 ## 🛠 Tools & Techniques Used
